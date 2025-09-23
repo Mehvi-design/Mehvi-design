@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mehvish Gull</h1>
-<h3 align="center">👋 Hi, I'm Mehvish! I'm an Electrical Engineer with coding expertise in MATLAB, Python, C++, JavaScript, and Verilog. My projects span DSP, IoT, and full-stack web development using Node.js and Firebase. I’ve built an IoT telemedicine system, created FPGA solutions, and developed DSP algorithms. Check out my repos for more!</h3>
+<h3 align="center">👋 Hi, I'm Mehvish! I'm an Electronic and communication Engineer with coding expertise in MATLAB, Python, C++ and Verilog. My projects span IoT, and full-stack web development using Node.js and Firebase. I’ve built an IoT telemedicine system, created FPGA solutions, and working on improving my skills daily. I am learning daily. Check out my repos for more!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehvi-design&label=Profile%20views&color=0e75b6&style=flat" alt="mehvi-design" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehvi-design" alt="mehvi-design" /></a> </p>
 
-- 🔭 I’m currently working on **CodSoft python internship**
-
-- 🌱 I’m currently learning **python and machine learning**
+To know about my activities check my linkedIn,
+https://www.linkedin.com/in/mehvish-gull/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
