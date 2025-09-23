@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehvish Gull</h1>
-<h3 align="center">👋 Hi, I'm Mehvish! I'm an Electronic and communication Engineer with coding expertise in MATLAB, Python, C++ and Verilog. My projects span IoT, and full-stack web development using Node.js and Firebase. I’ve built an IoT telemedicine system, created FPGA solutions, and working on improving my skills daily. I am learning daily. Check out my repos for more!</h3>
+<h3 align="center">👋 Hi, I'm Mehvish! I'm an Electronic and communication Engineer with coding experience in MATLAB, Python, C++ and Verilog. My projects span IoT, and full-stack web development using Node.js and Firebase. I’ve built an IoT telemedicine system, created FPGA solutions, and working on improving my skills daily. I am learning daily. Check out my repos for more!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehvi-design&label=Profile%20views&color=0e75b6&style=flat" alt="mehvi-design" /> </p>
 
