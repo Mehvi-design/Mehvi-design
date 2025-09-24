@@ -52,26 +52,16 @@ https://www.linkedin.com/in/mehvish-gull/
     <td>IoT-based Telemedicine System</td>
     <td>Developed a system to remotely monitor patient health parameters using IoT devices and cloud integration.</td>
     <td>IoT, Node.js, Firebase, Sensors</td>
-    <td><a href="https://github.com/mehvi-design/telemedicine-iot">Repo</a></td>
+    <td><a href="https://github.com/Mehvi-design/FYP_VtalConnect">Repo</a></td>
   </tr>
-  <tr>
-    <td>FPGA-based Solutions</td>
-    <td>Designed and implemented digital systems using Verilog for efficient computation.</td>
-    <td>Verilog, FPGA, Digital Logic</td>
-    <td><a href="https://github.com/mehvi-design/fpga-projects">Repo</a></td>
-  </tr>
+  
   <tr>
     <td>Full-Stack Web Development</td>
     <td>Built dynamic web applications with backend APIs and database integration.</td>
     <td>Node.js, Firebase, JavaScript, HTML/CSS</td>
-    <td><a href="https://github.com/mehvi-design/web-projects">Repo</a></td>
+    <td><a href="[https://github.com/mehvi-design/web-projects](https://github.com/Mehvi-design/FYP_VtalConnect)">Repo</a></td>
   </tr>
-  <tr>
-    <td>MATLAB & Python Projects</td>
-    <td>Worked on signal processing and automation projects demonstrating problem-solving with code.</td>
-    <td>MATLAB, Python</td>
-    <td><a href="https://github.com/mehvi-design/matlab-python">Repo</a></td>
-  </tr>
+ 
 </table>
 
 
