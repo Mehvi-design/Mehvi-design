@@ -39,5 +39,40 @@ https://www.linkedin.com/in/mehvish-gull/
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">Projects:</h3>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Skills/Technologies</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>IoT-based Telemedicine System</td>
+    <td>Developed a system to remotely monitor patient health parameters using IoT devices and cloud integration.</td>
+    <td>IoT, Node.js, Firebase, Sensors</td>
+    <td><a href="https://github.com/mehvi-design/telemedicine-iot">Repo</a></td>
+  </tr>
+  <tr>
+    <td>FPGA-based Solutions</td>
+    <td>Designed and implemented digital systems using Verilog for efficient computation.</td>
+    <td>Verilog, FPGA, Digital Logic</td>
+    <td><a href="https://github.com/mehvi-design/fpga-projects">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Full-Stack Web Development</td>
+    <td>Built dynamic web applications with backend APIs and database integration.</td>
+    <td>Node.js, Firebase, JavaScript, HTML/CSS</td>
+    <td><a href="https://github.com/mehvi-design/web-projects">Repo</a></td>
+  </tr>
+  <tr>
+    <td>MATLAB & Python Projects</td>
+    <td>Worked on signal processing and automation projects demonstrating problem-solving with code.</td>
+    <td>MATLAB, Python</td>
+    <td><a href="https://github.com/mehvi-design/matlab-python">Repo</a></td>
+  </tr>
+</table>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehvi-design&show_icons=true&locale=en" alt="mehvi-design" /></p>
