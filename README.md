@@ -59,7 +59,7 @@ https://www.linkedin.com/in/mehvish-gull/
     <td>Full-Stack Web Development</td>
     <td>Built dynamic web applications with backend APIs and database integration.</td>
     <td>Node.js, Firebase, JavaScript, HTML/CSS</td>
-    <td><a href="[https://github.com/mehvi-design/web-projects](https://github.com/Mehvi-design/FYP_VtalConnect)">Repo</a></td>
+    <td><a href="https://github.com/mehvi-design/web-projects](https://github.com/Mehvi-design/FYP_VtalConnect">Repo</a></td>
   </tr>
  
 </table>
