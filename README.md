@@ -42,12 +42,7 @@ https://www.linkedin.com/in/mehvish-gull/
 <h3 align="left">Projects:</h3>
 
 <table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Skills/Technologies</th>
-    <th>Link</th>
-  </tr>
+  
   <tr>
     <td>IoT-based Telemedicine System</td>
     <td>Developed a system to remotely monitor patient health parameters using IoT devices and cloud integration.</td>
